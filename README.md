@@ -7,7 +7,7 @@ A Technical SEO based in the UK. Optimising the web by day, developing stuff by 
 ---
 
 * [**qTunes**](https://github.com/bethwoodcock/qTunes) — An alternative to iTunes, for Android.
-* [**QueueTube**](https://github.com/bethwoodcock/queuetube) — Queue your YouTube Shorts for hands-free viewing.
+* [**QueueTube**](https://github.com/bethwoodcock/queuetube) — Queue and tag your YouTube Subscriptions for hands-free viewing.
 * [**GUISublist3r**](https://github.com/bethwoodcock/guisublist3r) — A graphical user interface wrapper for the Sublist3r subdomain enumeration tool.
 
 ## Connect
